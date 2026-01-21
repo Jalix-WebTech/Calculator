@@ -20,6 +20,13 @@
       font-size: 20PX;
     }
 
+     .project-name{
+      margin-left: auto;
+      padding-right: 15px;
+      color: #ff9500;
+      font-weight: bolder;
+    }
+
     .main {
       margin: 0;
       background: #0f0f0f;
@@ -103,4 +110,5 @@
       .calculator {
         max-width: 420px;
       }
+
     }
